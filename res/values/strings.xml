@@ -1,0 +1,20 @@
+<resources>
+
+    <string name="app_name">Steam Sale Notifier</string>
+    <string name="title_activity_main">Steam Sale Notifier</string>
+    <string name="notification_title">Games are on sale!</string>
+    <string name="menu_add">Add Game</string>
+    <string name="menu_import">Import Wishlist</string>
+    <string name="menu_refresh">Update All</string>
+    <string name="menu_clear">Remove All</string>
+    <string name="dialog_add_title">Search</string>
+    <string name="dialog_add_msg">Enter a search term in order to find the game you wish to add.</string>
+    <string name="dialog_removeall_msg">Are you sure you want to clear the entire list?</string>
+    <string name="error_network">Network Failure! You\'ll have to try again.</string>
+    <string name="error_duplicate">That game is already in list!</string>
+    <string name="context_update">Update now</string>
+    <string name="context_url">Go to store page</string>
+    <string name="context_remove">Stop monitoring</string>
+    <string name="empty_list">Currently, you aren\'t monitoring any games.\nAdd some with the menu.</string>
+
+</resources>
