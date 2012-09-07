@@ -1,10 +1,10 @@
 # Steam Sale Notifier
 
-![Google Play Ready](https://play.google.com/static/client/images/435140425-play_logo.png)
+[![Google Play Ready](https://play.google.com/static/client/images/435140425-play_logo.png)](https://play.google.com/store/apps/details?id=com.jzelinskie.ssn)
 
 ## Description
 
-Create a list of games from Steam and you'll be notified when Steam puts them on sale!
+SSN allows you to forget about checking the Steam Store every day to see if your favorite video games went on sale. With SSN you create a list of games and it only notifies you if one of them goes on sale.
 
 ## Requirements
 
